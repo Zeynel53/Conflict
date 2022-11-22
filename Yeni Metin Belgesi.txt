@@ -2,3 +2,4 @@ guzel gunlere git
 git gite gidiyor
 
 git ile ilk gunler gidiyor
+git ile ucuncu deneme

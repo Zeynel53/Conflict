@@ -1,3 +1,4 @@
 guzel gunlere git
 git gite gidiyor
 
+git ile ilk gunler gidiyor

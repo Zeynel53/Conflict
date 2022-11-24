@@ -5,7 +5,7 @@ git ile ucuncu deneme
 git ile besinci deneme
 MASTER BRANCH YENI EKLEME
 3.gun zeynel branch i ilk deneme
-
+ZEYNEL BRANCH 2.EKLEME
 //zeynel Bey 1-100
 
 
